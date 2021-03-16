@@ -7,3 +7,5 @@ for coding LEDs/Arduinos and Field-Programmable Gats Arrays(FPGAs) as refernce.
 
 They have been used in the Xilinx ISE 14.7 version for usage.
 (Preferred - Use the same software for accurate results)
+
+You can use the following URL for more results: https://circuitdigest.com/article/16x2-lcd-display-module-pinout-datasheet
