@@ -1,0 +1,8 @@
+NET "clk" LOC ="P51";// CLK 25MHz
+NET "clr" LOC =P141; 
+NET "lights[0]" LOC ="P1";//G1
+NET "lights[1]" LOC ="P5";//Y1
+NET "lights[2]" LOC ="P7";//R1
+NET "lights[3]" LOC ="P9";//G2
+NET "lights[4]" LOC ="P11";//Y2
+NET "lights[5]" LOC ="P14";//R2
